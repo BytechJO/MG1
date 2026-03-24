@@ -139,7 +139,7 @@ export const QuizPage = () => {
         <div className="paper animate__animated animate__backInDown" id="p3">
           <div className="content" >
             <div className="questions mt-[-15px]">
-              {/* 4. المرور على الأسئلة وعرضها ديناميكياً */}
+              
               {questions.map((q) => (
                 <div className="Q1 question-container" key={q.id}>
                   <QuestionText text={q.text} />
@@ -161,6 +161,7 @@ export const QuizPage = () => {
                   </ul>
                 </div>
               ))}
+              
             </div>
 
             <div id="buttonsContainer">

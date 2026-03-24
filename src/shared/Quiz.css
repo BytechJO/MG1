@@ -616,17 +616,18 @@
   }
 
   .story-pages-container {
-    width: 88%;
-    margin-left: 9%;
+    width: 100%;
+  }
+
+  .questions {
+    margin-top: 10%;
   }
 
   .Q1,
   .Q2,
   .Q3 {
-    margin-left: 80px;
     margin-bottom: 0rem;
     font-size: 0.7rem;
-    left: 2%;
   }
 
   .Q1 span,
@@ -638,6 +639,6 @@
   .skip-btn,
   .try-btn {
     margin-left: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 540px;
   }
 }
