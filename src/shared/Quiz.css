@@ -273,6 +273,7 @@
     padding: 10px 16px;
     font-size: 13px;
   }
+  
 }
 
 @media (max-width: 850px) {
@@ -641,4 +642,27 @@
     margin-left: 25px;
     margin-bottom: 540px;
   }
+  #submitBtn{
+    margin-bottom: 540px;
+  }
+  #p3 li input[type="radio"] {
+    margin-right: 30%;
+  }
 }
+@media (width: 1024px) and (height: 768px)
+{
+  .skip-btn,
+  .try-btn {
+    margin-left: 25px;
+    margin-bottom: 40px;
+  }
+  #submitBtn{
+    margin-bottom: 40px;
+  }
+}
+
+
+
+  
+
+
