@@ -1,7 +1,7 @@
 import Swal from "sweetalert2";
 import './ValidationAlert.css';
-import good from "./assets/goodjob1.gif";
-import wrong from "./assets/wrong.gif";
+import good from "./assets/like.gif";
+import wrong from "./assets/wrong-decision.gif";
 import Notice from "./assets/Notice.gif";
 import questionGif from "./assets/question.gif";
 
